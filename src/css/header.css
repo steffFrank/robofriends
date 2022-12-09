@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: clamp(2.5rem, 10vw, 5rem);
+    letter-spacing: 0.7rem;
+    color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+
+input {
+    height: 30px;
+    font-size: 1.2rem;
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid aqua;
+}
